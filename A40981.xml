@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Father Peters's farewell-sermon published by the pope's special command.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40981</idno>
+            <idno type="STC">Wing F546</idno>
+            <idno type="STC">ESTC R37342</idno>
+            <idno type="EEBO-CITATION">16395863</idno>
+            <idno type="OCLC">ocm 16395863</idno>
+            <idno type="VID">105345</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105345)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1092:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Father Peters's farewell-sermon published by the pope's special command.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>A satire on Edward Petre, a Jesuit priest.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Petre, Edward, 1631-1699 --  Humor.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Great Britain --  Politics and government --  1660-1714</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:105345:1"/>
+            <head>Father PETERS's <hi>Farewell-Sermon.</hi>
+            </head>
+            <head type="sub">Publiſhed by the <hi>POPE</hi>'s Special Command.</head>
+            <head type="sub">Firſt Epiſtle of the <hi>POPE</hi> to the <hi>JES<g ref="char:V">Ʋ</g>ITS,</hi> Chap. 84. Ver. 88. <hi>Sweet Meat muſt have ſowre Sawce.</hi>
+            </head>
+            <argument>
+               <p>MY Text is ſhort, but it is very agreeable to my time; and I could eaſily diſpence with the ſhortneſs of it, if the former Sweetneſs of our days were ſomewhat longer.</p>
+               <p>The Times I ſee vary, as the <hi>Planets</hi> do in their ordinary Motions; and there is a time for all things, a time to Win, and a time to Loſe; a time to Speak, and a time to be Silent; a time to contrive and act Miſchief, and a time to be called to an Account for thoſe Tranſactions; and laſtly, a time of Sweetneſs, and a time of Sowrneſs, which brings me to the Words of my Text,</p>
+               <q>Sweet Meat muſt have ſowre Sawce.</q>
+               <p>My Text is Compounded of two Ingrediences, <hi>Sweetneſs</hi> and <hi>Sowreneſs;</hi> and therefore I ſhall divide it into Two Parts. In my Firſt Part, which I ſhall inſiſt upon, is <hi>Sweet Meat;</hi> and in my Second Part, the <hi>Sowre Sawce.</hi>
+               </p>
+            </argument>
+            <p>SWeetneſs indeed is a great Cordial for dejected Spirits, but Superfluity of it many times proves Nauſeous; I can ſpeak by Experience, and I hope none that hears me can plead Ignorance, but that we have all freely Enjoyed that Sweetneſs in a great meaſure, which I may modeſtly ſay we have no ways deſerved; we have been too fiery and over-zealous in many Points, and have turn'd that into a Corroſive, which ſhould have been an healing Medicine.</p>
+            <p>
+               <hi>Ben Johnſon,</hi> that Famous Poet of his time, has in his Play of <hi>Cataline</hi>'s Conſpiracy, <hi>Act the Firſt, Scene the Second,</hi> this Speech, which he orders <hi>Cataline</hi> to break forth in:</p>
+            <p>
+               <hi>It is decreed, nor ſhall thy Fate O</hi> Rome <hi>reſiſt my Vow; though Hills were ſet on Hills, and Seas met Seas to guard thee, I would through. I plough up Rocks ſteep, as the Alps in duſt, and lave the</hi> Tythene <hi>Waters into Clouds, but I would reach thy Head, thy Head, proud Cay. The Ills that I have done cannot be ſafe, but by attempting greater; and I feel a ſpirit within me that chides my ſluggiſh hands, and ſays they have been innocent too long,</hi> &amp;c.</p>
+            <p>Now I have ſtrove as much as in me lay, to be as Inveterate againſt the Church of <hi>England,</hi> as ever he and his Faction was againſt <hi>Rome,</hi> and have ſome of my own proud thoughts by me in Manuſcript, amongſt my looſe Pa<g ref="char:EOLhyphen"/>pers, which I did deſign, had the Times been <hi>Sweeter,</hi> to have had my old Friend <hi>H H.</hi> (if he had not boiled the Peaſe he wore in his Shoes) to have printed them: I ſhall only give you a little Reliſh of them.</p>
+            <p>
+               <hi>It is decreed, nor ſhall thy Fate, O</hi> England<hi>'s Church, reſiſt my Vow: Though Churches nu<g ref="char:EOLhyphen"/>merous are, and Pariſhes increaſe with Hereticks, my Malice ſhall not ceaſe. I'll plough with Miſchief's Heifer, and will contrive to force the Teſt and Penal Laws way, that I may reach thy Head, thy Head, Stiff Church.</hi> Then entring into a damnable Contemplation with my ſelf, I proceeded.</p>
+            <pb facs="tcp:105345:2" rendition="simple:additions"/>
+            <p>
+               <hi>The horrid Act I have committed cannot be ſafe, but by attempting greater; the Seven great Pillars of the Church muſt down, and near unto the Lyon's Den they muſt be hurried: For I feel a deviliſh Spirit within me that chides my ſluggiſh hards, and ſays, they have been innocent too long, &amp;c.</hi>
+            </p>
+            <p>But now I find my dear Auditors, I went not a little, like the Cobler, be<g ref="char:EOLhyphen"/>yond my Laſt, but a great deal thô the Stratagem was like the Devil's bait, <hi>ſweet</hi> at the Beginning, yet it proved crabbed and knotty in the End; but, howſoever, many times the proof of the Pudding is in the Eating, which brings me now to the words of my Text, <hi>Sweet Meat muſt have ſowre Sawce;</hi> and ſo I ſhall conclude my Firſt Part.</p>
+            <p>Now for the Second Part of my Diſcourſe, and the latter part of my Text, which is, namely, <hi>Sowre Sawce.</hi>
+            </p>
+            <p>
+               <hi>SOwre</hi> indeed are the Times, and like, for ought I ſee, to be <hi>ſowrer,</hi> eſpe<g ref="char:EOLhyphen"/>cially for thoſe of our Superſtitious Church, as the ungodly Hereticks of the Church of <hi>England</hi> nominates us. Black Clouds are gathered together, and our Sun is ſet here on this ſide the Water. Sharp is the Wind and cold is the Air on this ſide <hi>Purgatory:</hi> But this is our comfort ſtill, that the Re<g ref="char:EOLhyphen"/>gions are warm of; our Father <hi>Lucifer,</hi> where I make no queſtion but ſome of us that have merited may deſcend, after we have undergone the Perſecution of hanging Geometrically in a Perpendicular Line, by aſcending the Ladder <hi>Paſſant,</hi> the better to come at the Rope <hi>Pendant:</hi> For <hi>Sweet Meat muſt have ſowre Sawce.</hi>
+            </p>
+            <p>Sowre and Sharp things many times are very neceſſary in ſeveral Diſeaſes, and ſeveral Cauſes, and are uſed as proper Remedies, as for example, <hi>Vine<g ref="char:EOLhyphen"/>gar</hi> will ſtanch Bleeding, Salt and Soape takes away a Burning or Scald, <hi>Le<g ref="char:EOLhyphen"/>monds</hi> fetches ſpots of Ink out of Linnen, and <hi>Orenges</hi> Phyſitians do preſcribe is extraordinary good for the <hi>Scurvy;</hi> and Hang a Dog upon a <hi>Crab-Tree</hi> and he will never love <hi>Verjuice</hi> afterwards; So that we may plainly ſee by De<g ref="char:EOLhyphen"/>monſtration, that <hi>Sharp</hi> and <hi>Sowre</hi> things are very good remedies, if proper<g ref="char:EOLhyphen"/>ly applyed.</p>
+            <p>Now <hi>Orenges</hi> indeed is as proper a Sawce as we can have to our <hi>ſweet Meat,</hi> for indeed, if I miſtake not I think I am my ſelf of an <hi>Eſſex</hi> Breed, which is a very plentiful Country for <hi>Calves,</hi> and we all know, that the propereſt Sawce for <hi>Veal</hi> is <hi>Orenges;</hi> but they are not at all agreeable to our Palates, eſpecial<g ref="char:EOLhyphen"/>ly your <hi>Bermudas Orenges,</hi> for they are very large, and have a Sound too much of the <hi>Belgick Lyon</hi> in them. And now the <hi>Belgick Lyon</hi> begins to Roar, which is a very great Prognoſtication of foul weather, and the <hi>Roman Eagle</hi> lets fall her Wings, now ſhe is hindred of her Prey, therefore let us be<g ref="char:EOLhyphen"/>take our ſelves to our heels, and add wings to our Spirits, that we may be ready to fly away from this Heretical crew of <hi>ſowre</hi> Obſtacles. He that will deceive a <hi>Fox</hi> muſt riſe betimes, and <hi>Foxes</hi> when they are a ſleep have no<g ref="char:EOLhyphen"/>thing fall into their mouths; but let us make the beſt uſe of thoſe ſowre times as we can, and all patiently content our ſelves with that wholſome ſaying of the <hi>Fox, When we cannot reach the Grapes, we muſt</hi> ſay <hi>they are not ripe.</hi>
+            </p>
+            <p>And now, for a Word or two of <hi>Application;</hi> Let us be <hi>ſweet</hi> outwardly, but <hi>ſowre</hi> in<g ref="char:EOLhyphen"/>wardly: Let the old Leven of Malice ſtill and for ever remain in us, that at laſt we may bring it forth in the whole Lump: Let us deſpiſe their Heretical Perſecutions, and if we are once catch'd, die as innocently as our Predeceſſors have ſeemingly done before us, without knowing any thing at all of the matter of which we are accuſed; but denying all things, for the great meritorious Works ſake: But laſtly, let us all deſire, ſince <hi>Orenges</hi> are the propereſt Sawce for our ſcurvy Diſtemper, that we may expire our laſt Breath upon that Tree on which they grow, and not on that old <hi>Paddington</hi> Tree at <hi>Hide-park Corner.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
